@@ -24,7 +24,7 @@ Broken into 8-character columns, it yields 7 rows.
 
 Those 7 rows produce this rectangle when printed one per line:
 
-```plain
+```
 ifmanwas
 meanttos
 tayonthe
@@ -38,7 +38,7 @@ The coded message is obtained by reading down the columns going left to right.
 
 For example, the message above is coded as:
 
-```plain
+```
 imtgd vsfea rwerm ayoog
 oanou uiont nnlvt wttdd
 esaoh ghnss eoau
