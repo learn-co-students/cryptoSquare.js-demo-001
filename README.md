@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: crypto, oo
----
+
 
 # Crypto Square
 
