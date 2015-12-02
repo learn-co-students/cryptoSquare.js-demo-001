@@ -72,3 +72,5 @@ For example:
     - "edogch"
     - "illout"
   - Which yields a ciphertext beginning: "hifei acedl v…"
+
+<a href='https://learn.co/lessons/cryptoSquare.js' data-visibility='hidden'>View this lesson on Learn.co</a>
